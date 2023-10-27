@@ -1,0 +1,30 @@
+{
+  "name": "Testnet Default List",
+  "timestamp": "2023-10-27T15:03:04Z",
+  "version": {
+    "major": 2,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "",
+  "keywords": [],
+  "tokens": [
+    {
+      "chainId": 1131,
+      "address": "0xe4ddBF87A3eb8Fb958F7953d900f1f524e9cAb79",
+      "name": "VanillaSwap Token",
+      "symbol": "VAN",
+      "decimals": 18,
+      "logoURI": "https://vanillaswap.org/assets/images/logo.png"
+    },
+    {
+      "chainId": 1131,
+      "address": "0xFF0000000000000000000000000000000000000B",
+      "name": "DUSD",
+      "symbol": "DUSD",
+      "decimals": 18,
+      "logoURI": "https://vanillaswap.org/assets/images/dusd.png"
+    }
+  ]
+}

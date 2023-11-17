@@ -17,6 +17,14 @@
       "symbol": "VAN",
       "decimals": 18,
       "logoURI": "https://vanillaswap.org/assets/images/logo.png"
+    },
+    {
+      "chainId": 1130,
+      "address": "0xFf0000000000000000000000000000000000000F",
+      "name": "DUSD",
+      "symbol": "DUSD",
+      "decimals": 18,
+      "logoURI": "https://vanillaswap.org/assets/images/dusd.png"
     }
   ]
 }

@@ -1,0 +1,22 @@
+{
+  "name": "Mainnet Default List",
+  "timestamp": "2023-11-17T20:00:00+0000",
+  "version": {
+    "major": 2,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://vanillaswap.org/assets/images/logo.png",
+  "keywords": [],
+  "tokens": [
+    {
+      "chainId": 1130,
+      "address": "0x870c765f8aF9b189C324BE88B99884e5bAe4514b",
+      "name": "VanillaSwap Token",
+      "symbol": "VAN",
+      "decimals": 18,
+      "logoURI": "https://vanillaswap.org/assets/images/logo.png"
+    }
+  ]
+}

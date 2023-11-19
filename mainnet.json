@@ -1,4 +1,4 @@
-{
+    {
   "name": "Mainnet Default List",
   "timestamp": "2023-11-17T20:00:00+0000",
   "version": {
@@ -20,8 +20,48 @@
     },
     {
       "chainId": 1130,
+      "address": "0xFF00000000000000000000000000000000000003",
+      "name": "DMC Tether USDt",
+      "symbol": "dUSDT",
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/825.png"
+    },
+    {
+      "chainId": 1130,
+      "address": "0xff00000000000000000000000000000000000002",
+      "name": "DMC Bitcoin",
+      "symbol": "dBTC",
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1.png"
+    },
+    {
+      "chainId": 1130,
+      "address": "0xff00000000000000000000000000000000000001",
+      "name": "DMC Ethereum",
+      "symbol": "dETH",
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png"
+    },
+    {
+      "chainId": 1130,
+      "address": "0xFF000000000000000000000000000000000000e2",
+      "name": "DMC Solana",
+      "symbol": "dSOL",
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5426.png"
+    },
+    {
+      "chainId": 1130,
+      "address": "0xFF0000000000000000000000000000000000000d",
+      "name": "DMC USDC",
+      "symbol": "dUSDC",
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png"
+    },
+    {
+      "chainId": 1130,
       "address": "0xFf0000000000000000000000000000000000000F",
-      "name": "DUSD",
+      "name": "Decentralized USD",
       "symbol": "DUSD",
       "decimals": 18,
       "logoURI": "https://vanillaswap.org/assets/images/dusd.png"

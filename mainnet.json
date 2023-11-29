@@ -1,10 +1,10 @@
     {
   "name": "Mainnet Default List",
-  "timestamp": "2023-11-17T20:00:00+0000",
+  "timestamp": "2023-11-29T10:40:00+0000",
   "version": {
-    "major": 7,
+    "major": 1,
     "minor": 0,
-    "patch": 0
+    "patch": 3
   },
   "tags": {},
   "logoURI": "https://vanillaswap.org/assets/images/logo.png",
@@ -17,6 +17,14 @@
       "symbol": "VAN",
       "decimals": 18,
       "logoURI": "https://vanillaswap.org/assets/images/logo.png"
+    },
+    {
+      "chainId": 1130,
+      "address": "0x5128E0407a5B9B123AD942F9a9F0C151AeF7d1eF",
+      "name": "Hospium Token",
+      "symbol": "HOSP",
+      "decimals": 18,
+      "logoURI": "https://vanillaswap.org/assets/tokens/hosp.jpeg"
     },
     {
       "chainId": 1130,
@@ -61,8 +69,8 @@
     {
       "chainId": 1130,
       "address": "0xFf0000000000000000000000000000000000000F",
-      "name": "Decentralized USD",
-      "symbol": "DUSD",
+      "name": "DMC USD",
+      "symbol": "dUSD",
       "decimals": 18,
       "logoURI": "https://vanillaswap.org/assets/images/dusd.png"
     }

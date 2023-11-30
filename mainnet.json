@@ -4,12 +4,20 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 3
+    "patch": 4
   },
   "tags": {},
   "logoURI": "https://vanillaswap.org/assets/images/logo.png",
   "keywords": [],
   "tokens": [
+     {
+      "chainId": 1130,
+      "address": "0x40713cD6eb30c6754f5721BfD4e6e50FDa9e2954",
+      "name": "MetaLend Token",
+      "symbol": "MLEND",
+      "decimals": 18,
+      "logoURI": "http://vanillalabs.org/wp-content/uploads/2023/11/MetaLend-Logo-icon.png"
+    },
     {
       "chainId": 1130,
       "address": "0x870c765f8aF9b189C324BE88B99884e5bAe4514b",

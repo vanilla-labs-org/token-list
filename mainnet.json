@@ -1,10 +1,10 @@
-    {
+{
   "name": "Mainnet Default List",
-  "timestamp": "2023-11-29T10:40:00+0000",
+  "timestamp": "2023-12-07T07:52:00+0000",
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 4
+    "patch": 7
   },
   "tags": {},
   "logoURI": "https://vanillaswap.org/assets/images/logo.png",

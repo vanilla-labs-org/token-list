@@ -1,0 +1,19 @@
+{
+  "name": "Farm Default List",
+  "timestamp": "2023-12-07T07:52:00+0000",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 7
+  },
+  "tags": {},
+  "logoURI": "https://vanillaswap.org/assets/images/logo.png",
+  "keywords": [],
+  "farms": [
+    {
+      "name": "VAN Early Pool #1",
+      "address": "0x73DC5c9FC16AB4538dc7B42fd32B254ec296732e"
+    }
+  ]
+}
+

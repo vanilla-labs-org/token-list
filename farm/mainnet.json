@@ -11,6 +11,10 @@
   "keywords": [],
   "farms": [
     {
+      "name": "VAN Early Pool #2",
+      "address": "0x87AfE72A8B4a109Cccf5414924b7C989dC91f628"
+    },
+    {
       "name": "VAN Early Pool #1",
       "address": "0x73DC5c9FC16AB4538dc7B42fd32B254ec296732e"
     }
